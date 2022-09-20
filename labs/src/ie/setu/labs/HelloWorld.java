@@ -7,6 +7,7 @@ public class HelloWorld {
 		
 		System.out.print("Hello");
 		System.out.print("Hello from GitHub");
+		System.out.print("Hello from Eclipse, again");
 
 	}
 
